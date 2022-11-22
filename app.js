@@ -1,0 +1,1 @@
+console.log("about javascript node")
